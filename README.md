@@ -1,5 +1,5 @@
 # Cryptocurrency-Arbitrage
-This analysis was built to identify trading arbitrage opportunities in Bitcoin markets from two exchanges, to perform financial analyses on the profitability of the arbitrage opportunies, and to visualize trends pertaining to the datasets. 
+This analysis was built to identify trading arbitrage opportunities in Bitcoin markets from two exchanges, to perform financial analyses on the profitability of the arbitrage opportunities, and to visualize trends pertaining to the datasets. 
 
 This analysis is an assignment included in the fintech bootcamp curriculum by Trilogy Education Services. 
 
